@@ -1,8 +1,9 @@
 ## BESC Azure IoT-Hub SDK Integrated System
 
 ### Overview
-
-Below shows two of the required SDK to push and pull data from gateway devices using MQTT and Azure IoT-Hub
+This SDK is created to allow client push energy data to BESC through Azure IoT-Hub.
+Below shows two of the required SDK to push and pull data from gateway devices using MQTT and Azure IoT-Hub.
+Both SDK are seperated for personalized industrial configuration purpose.
 
 #### **Push Data SDK**
 

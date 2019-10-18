@@ -1,0 +1,20 @@
+{
+  "name": "mqtt-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/event-hubs": "^2.1.1",
+    "azure-iot-device-mqtt": "^1.11.0",
+    "besc-ess-nodejs-client": "^1.0.2",
+    "dotenv": "^8.1.0",
+    "js-beautify": "^1.10.2",
+    "mqtt": "^3.0.0"
+  }
+}

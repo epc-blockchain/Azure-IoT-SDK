@@ -1,0 +1,15 @@
+{
+    "Devices": [{
+        "name": "Device 4",
+        "energy": 123
+    }, {
+        "name": "Device 3",
+        "energy": 210.2323
+    }, {
+        "name": "Device 1",
+        "energy": 143.3223
+    }, {
+        "name": "Device 2",
+        "energy": 34534.2
+    }]
+}
